@@ -5,3 +5,5 @@
 <p align="center">
   <img src="https://i.imgur.com/s19s5IB.gif">
 </p>
+
+<h5 align="center">gif preview doesn't look as good as the real thing!</h5>
