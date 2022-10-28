@@ -8,6 +8,10 @@
   overflow: hidden !important;
 }
 
+h2{
+  margin-top: 8px;
+}
+
 body {
   background: linear-gradient(260deg, #6a9eec, #65c0d3);
   min-height: 100vh;
